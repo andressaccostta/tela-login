@@ -1,0 +1,88 @@
+h1{
+    color:green;
+    font-size: 42px;
+}
+
+h2{
+    color:green;
+    font-size: 20px;
+    float: center;
+}
+
+img src{
+    margin: 20px;
+    border: 1px solid #ccc;
+    float: center;
+    width: 180px;
+}
+
+.container{
+
+    width: 250px;
+    border: 2px solid #ddd;
+    margin: auto;
+    margin-top: 50px;
+    padding: 25px;
+    text-align: center;
+    display: table;
+    padding-top: 5px;
+    border-radius: 8px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: royalblue;
+    border:none;
+    color: white;
+    outline: none;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    box-sizing: border-box;
+
+}
+
+
+
+#home {
+    width: 46px;
+    height: 44px;
+    background: url(img_navsprites.gif) 0 0;
+  }
+
+label{
+    color:grey;
+    font-size: 14px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+
+a {
+    color: royalblue;
+    text-decoration: none;
+    float: right; 
+
+}
+
+
+#btn-cadastrar:hover {
+    cursor: pointer;
+    background-color: green;
+ }
+
+ #btn-voltar:hover {
+    cursor: pointer;
+    background-color: green;
+ } 
